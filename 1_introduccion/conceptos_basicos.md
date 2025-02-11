@@ -1,68 +1,47 @@
- # ¡Bienvenidos a la Gestión de Proyectos de Software! 🚀
- 
+# Glosario Básicos para la Gestión de Proyectos 🚀
 
- ## ¿Por qué es crucial la Gestión de Proyectos? 🤔
- 
+Basándome en el material bibliográfico de la materia, estos son los conceptos fundamentales de la gestión de proyectos esenciales:
 
- Imaginen construir un rascacielos 🏢 sin un plano o un director de obra. ¡Caos total, verdad! La Gestión de Proyectos es ese plano y ese director para el mundo del software. Nos ayuda a:
- 
+1.  **Proyecto:** Esfuerzo temporal para crear un producto, servicio o resultado único. 🎯
 
- *  🎯 Definir objetivos claros y alcanzables.
- *  ⏱️ Administrar el tiempo de forma eficiente.
- *  💰 Controlar los costos y recursos.
- *  🤝 Coordinar equipos y tareas.
- *  ✅ Asegurar la calidad del producto final.
- 
+2.  **Gestión de proyectos:** Proceso de planificar, organizar, ejecutar y controlar recursos para lograr objetivos específicos. ⚙️
 
- En resumen, ¡convertimos ideas en realidad de manera organizada y exitosa! 🎉
- 
+3.  **Triple restricción:** Alcance, tiempo y costo, que deben equilibrarse para mantener la calidad del proyecto. ⚖️
 
- ## ¿Qué aprenderemos en este tema? 📚
- 
+4.  **Ciclo de vida del proyecto:** Fases que atraviesa un proyecto desde su inicio hasta su cierre. 🔄
 
- 1. **Conceptos básicos:** Desglosaremos la jerga de la gestión de proyectos (alcance, hitos, entregables, etc.) para que hables el mismo idioma que los profesionales. 
- 2. **Fases clave:** Exploraremos cada etapa del ciclo de vida de un proyecto, desde la planificación inicial hasta el cierre y la entrega.
- 3. **El poder del PMI:** Descubriremos los fundamentos del Project Management Institute (PMI) y cómo sus estándares nos guían hacia las mejores prácticas.
- 
+5.  **Alcance del proyecto:** Trabajo necesario para entregar un producto o servicio con características específicas. 📏
 
- ## Profundicemos un poco más 🤓
- 
+6.  **Planificación:** Definición de objetivos, identificación de recursos y programación de actividades. 🗓️
 
- ### 1.1. Conceptos Básicos para la Gestión de Proyectos
- 
+7.  **Gestión de riesgos:** Identificación y mitigación de posibles problemas que puedan afectar al proyecto. ⚠️
 
- *  **Proyecto:** Un esfuerzo temporal para crear un producto, servicio o resultado único.
- *  **Gestión de Proyectos:** La aplicación de conocimientos, habilidades, herramientas y técnicas a las actividades del proyecto para cumplir con los requisitos.
- *  **Partes Interesadas (Stakeholders):** Individuos, grupos u organizaciones que pueden afectar, ser afectados por, o percibirse a sí mismos como afectados por una decisión, actividad o resultado de un proyecto.
- 
+8.  **Gestión de recursos:** Asignación eficiente de recursos humanos, materiales y financieros. 💰
 
- ### 1.2. Fases de la Gestión de Proyectos
- 
+9.  **Comunicación:** Intercambio efectivo de información entre miembros del equipo y partes interesadas. 🗣️
 
- 1.  **Inicio:** Definir y autorizar el proyecto.
- 2.  **Planificación:** Establecer el alcance, refinar los objetivos y definir el curso de acción para alcanzar los objetivos.
- 3.  **Ejecución:** Dirigir y gestionar el trabajo definido en el plan de gestión del proyecto.
- 4.  **Monitoreo y Control:** Rastrear, revisar y regular el progreso y el rendimiento del proyecto.
- 5.  **Cierre:** Finalizar todas las actividades del proyecto para completar formalmente el proyecto.
- 
+10. **Metodologías ágiles:** Enfoques flexibles como Scrum, Kanban y XP para proyectos adaptativos. 💨
 
- ### 1.3. Fundamentos del Project Management Institute (PMI)
- 
+11. **Hitos:** Puntos de control importantes en el cronograma del proyecto. 📍
 
- El PMI es una organización global sin fines de lucro para la profesión de gestión de proyectos. Establece estándares, proporciona certificación y ofrece recursos para los profesionales de la gestión de proyectos.
- 
+12. **Entregables:** Productos o resultados específicos que deben completarse en cada fase del proyecto. 📦
 
- ## Recursos Adicionales 🔗
- 
+13. **Partes interesadas (stakeholders):** Individuos o grupos afectados por o que pueden influir en el proyecto. 🤝
 
- *   **PMI México:** [https://pmi-mexico.org/](https://pmi-mexico.org/) (Mantente al tanto de eventos, certificaciones y noticias locales).
- *   **Blog de ProjectManager.com:** [https://www.projectmanager.com/es/blog](https://www.projectmanager.com/es/blog) (Artículos prácticos, plantillas y consejos).
- *   **Curso de Introducción a la Gestión de Proyectos de Google en Coursera:** [https://www.coursera.org/specializations/project-management](https://www.coursera.org/specializations/project-management) (Una visión general completa para principiantes).
- 
+14. **Gestión del cambio:** Proceso para manejar modificaciones en el alcance, cronograma o recursos del proyecto. 🔀
 
- ## ¡Manos a la obra! 💻
- 
+15. **Matriz de responsabilidades:** Herramienta que asigna roles y responsabilidades a los miembros del equipo. 🧑‍💼
 
- Investiga casos de éxito y fracaso de proyectos de software en México. ¿Qué papel jugó la gestión de proyectos en cada caso? ¡Comparte tus hallazgos en el foro! 
- 
+16. **Gestión de la calidad:** Procesos para asegurar que el proyecto cumpla con los estándares requeridos. ✅
 
+17. **Lecciones aprendidas:** Conocimientos adquiridos durante el proyecto que pueden aplicarse en futuros proyectos. 📚
+
+18. **Gestión del valor ganado:** Técnica para medir el desempeño y progreso del proyecto en términos de costo y cronograma. 📈
+
+19. **Cierre del proyecto:** Fase final que incluye la entrega del producto o servicio y la documentación de los resultados. 🏁
+
+20. **Adaptación:** Ajuste de los procesos y enfoques de gestión según las necesidades específicas del proyecto y su contexto. 💡
+
+Con esta lista tendras una base sólida para comprender los conceptos fundamentales de la gestión de proyectos, abarcando tanto enfoques tradicionales como ágiles, y considerando aspectos clave para el éxito de los proyectos en diversos contextos. 
+
+¡Espero que te sea útil! 👍
