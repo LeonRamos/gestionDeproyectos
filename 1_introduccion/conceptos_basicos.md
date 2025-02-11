@@ -45,3 +45,7 @@ Basándome en el material bibliográfico de la materia, estos son los conceptos 
 Con esta lista tendras una base sólida para comprender los conceptos fundamentales de la gestión de proyectos, abarcando tanto enfoques tradicionales como ágiles, y considerando aspectos clave para el éxito de los proyectos en diversos contextos. 
 
 ¡Espero que te sea útil! 👍
+
+
+# Estándares disponibles enfocados en proyectos, personas y organización.png
+![Enfoques](1_introduccion/estandares.png)
