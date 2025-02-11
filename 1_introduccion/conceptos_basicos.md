@@ -47,5 +47,5 @@ Con esta lista tendras una base sólida para comprender los conceptos fundamenta
 ¡Espero que te sea útil! 👍
 
 
-# Estándares disponibles enfocados en proyectos, personas y organización.png
+# Estándares disponibles enfocados en proyectos, personas y organización
 ![Enfoques](1_introduccion/estandares.png)
