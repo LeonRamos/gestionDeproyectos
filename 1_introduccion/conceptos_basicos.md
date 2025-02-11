@@ -48,4 +48,4 @@ Con esta lista tendras una base sólida para comprender los conceptos fundamenta
 
 
 # Estándares disponibles enfocados en proyectos, personas y organización
-![Enfoques](1_introduccion/estandares.png)
+![Enfoques](1_introduccion/estandares.png)(https://github.com/LeonRamos/gestionDeproyectos/blob/main/1_introduccion/estandares.png))
