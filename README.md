@@ -1,4 +1,4 @@
-# Gestión de Proyectos de Software
+# Gestión de Proyectos
 
 ## Descripción 📖
 🎯 Esta materia tiene como objetivo proporcionar a los estudiantes los conocimientos y herramientas necesarias para la gestión efectiva de proyectos de software, desde la planificación hasta la supervisión y revisión del proyecto.
