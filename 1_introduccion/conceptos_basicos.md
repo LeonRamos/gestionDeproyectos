@@ -1,7 +1,5 @@
 # Glosario Básicos para la Gestión de Proyectos 🚀
 
-Basándome en el material bibliográfico de la materia, estos son los conceptos fundamentales de la gestión de proyectos esenciales:
-
 1.  **Proyecto:** Esfuerzo temporal para crear un producto, servicio o resultado único. 🎯
 
 2.  **Gestión de proyectos:** Proceso de planificar, organizar, ejecutar y controlar recursos para lograr objetivos específicos. ⚙️
